@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+}
+
+h1 {
+    background-color: magenta;
+    color: white;
+    font-size: 3rem;
+    letter-spacing: 3px;
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    width: fit-content;
+    padding: 2rem;
+}
+
+.header {
+}
+
+.about {
+}
+
+.contact {
+}
+
+.footer {
+}
